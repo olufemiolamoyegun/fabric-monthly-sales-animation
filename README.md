@@ -1,7 +1,7 @@
 # Fabric Monthly Sales Animation
 
-![License](https://img.shields.io/github/license/olufemiolamoyegun/fabric-monthly-sales-animation) 
-![Toolkit](https://img.shields.io/badge/Fabric-monthly-sales-animation-blue)
+[![License](https://img.shields.io/badge/License-Custom-lightgrey)](https://github.com/olufemiolamoyegun/fabric-monthly-sales-animation/blob/main/LICENSE)
+[![Toolkit](https://img.shields.io/badge/Fabric-monthly-sales-animation-blue)](https://learn.microsoft.com/en-us/fabric/)
 
 ## Demo
 ![Monthly Sales Animation](https://raw.githubusercontent.com/olufemiolamoyegun/fabric-monthly-sales-animation/main/monthly_sales_dual_animation.gif)
@@ -45,4 +45,4 @@ For a step-by-step walkthrough, check out the demo:
 ---
 
 ## License
-This project is licensed under the license shown in the badge above.
+This project is licensed under the license linked in the badge above.
