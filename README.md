@@ -1,7 +1,7 @@
 # Fabric Monthly Sales Animation
 
 [![License](https://img.shields.io/badge/License-Custom-lightgrey)](https://github.com/olufemiolamoyegun/fabric-monthly-sales-animation/blob/main/LICENSE)
-[![Toolkit](https://img.shields.io/badge/https://github.com/olufemiolamoyegun/fabric-monthly-sales-animation)
+[![Toolkit](https://img.shields.io/badge/olufemiolamoyegun/fabric-monthly-sales-animation)
 
 ## Demo
 ![Monthly Sales Animation](https://raw.githubusercontent.com/olufemiolamoyegun/fabric-monthly-sales-animation/main/monthly_sales_dual_animation.gif)
