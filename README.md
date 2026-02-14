@@ -1,5 +1,7 @@
 # Fabric Monthly Sales Animation
 
+MIT License | Fabric Extensibility Toolkit
+
 ## Overview
 Animated monthly sales dashboard built with Microsoft Fabric Notebooks.  
 Shows line and bar chart animation with dynamic KPIs (total, average, max, min).
