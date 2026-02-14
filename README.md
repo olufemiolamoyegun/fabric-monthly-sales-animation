@@ -1,6 +1,11 @@
 # Fabric Monthly Sales Animation
 
-MIT License | Fabric Extensibility Toolkit
+![License](https://img.shields.io/badge/License-MIT-green) ![Toolkit](https://img.shields.io/badge/Fabric-Extensibility%20Toolkit-blue)
+
+## Demo
+![Monthly Sales Animation](gifs/monthly_sales_dual_animation.gif)
+
+Watch the animation in action: [YouTube Demo](https://www.youtube.com/watch?v=cPeKXmWPW1U)
 
 ## Overview
 Animated monthly sales dashboard built with Microsoft Fabric Notebooks.  
@@ -22,6 +27,3 @@ Visualizes monthly sales data over time using:
 2. Ensure the dataset `monthly_sales.csv` is available in `dataset/`.  
 3. Run all cells.  
 4. The GIF will be generated in `gifs/` and displayed inline.
-
-## Demo Video
-Watch the animation in action: [YouTube Demo](https://www.youtube.com/watch?v=cPeKXmWPW1U)
